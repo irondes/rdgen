@@ -6,7 +6,7 @@ services:
     environment:
       SECRET_KEY: "django-insecure-!(t-!f#6g#sr%yfded9(xha)g+=!6craeez^cp+*&bz_7vdk61"
       GHUSER: "irondes"
-      GHBEARER: "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"
+      GHBEARER: ""
       GENURL: "acesso.irondes.com.br"
       PROTOCOL: "https"
       REPONAME: "rdgen"
